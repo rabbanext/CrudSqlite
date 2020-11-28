@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CrudSqlite</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_buatbiodata">Form Biodata Baru</string>
+    <string name="title_activity_lihatbiodata">Lihat Biodata</string>
+    <string name="title_activity_updatebiodata">Update Biodata</string>
+</resources>
